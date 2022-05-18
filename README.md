@@ -22,6 +22,10 @@ Often, teams have a good naming convention while naming the datasets and their f
 - ML Model Serving:
   - The model will take a CSV containing URN, Name, DataType and will output a CSV containing Glossary field for each URN.
 
+## Results
+
+![](./results.png)
+
 ## Future Scope
 1) Entity Grouping -> Module to group entities belonging to same team. API to read this content and feed it to the Model.
 2) Update Glossary in DH --> Output of ML model is read to update it directly in DH
